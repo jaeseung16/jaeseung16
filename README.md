@@ -1,3 +1,3 @@
 ![Stats](./profile/stats.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseung16&layout=donut)](https://github.com/aeseung16/github-readme-stats)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
