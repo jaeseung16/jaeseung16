@@ -6,7 +6,7 @@ Welcome to my personal GitHub profile!
 
 Developing Java applications for a core trading platform at ICE Bonds 💻 
 
-Was a scientist with background in quantum computing, nuclear magnetic resonance (NMR) spectroscopy, and magnetic resonance imaging (MRI) 🔬 
+Was a scientist with background in quantum computing, nuclear magnetic resonance (NMR) spectroscopy, and magnetic resonance imaging (MRI) ⚛️🧲🔬 
 
 Am building iOS apps in my free time
 
