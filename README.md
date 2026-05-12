@@ -1,16 +1,16 @@
-# Hi, I'm Jae-Seung (재승) 👋
+# Hi, I'm Jae-Seung (재승)
 
 Welcome to my personal GitHub profile!
 
 ## About Me
 
-Developing Java applications for a core trading platform at ICE Bonds 💻 
+Developing Java applications for a core trading platform at ICE Bonds
 
-Was a scientist with background in quantum computing, nuclear magnetic resonance (NMR) spectroscopy, and magnetic resonance imaging (MRI) ⚛️🧲🔬 
+Was a scientist with background in quantum computing, nuclear magnetic resonance (NMR) spectroscopy, and magnetic resonance imaging (MRI)
 
 Am building iOS apps in my free time
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Java, Swift, Python, MATLAB, C++, C
 
@@ -18,7 +18,7 @@ Am building iOS apps in my free time
 
 **Swift:** SwiftUI, CloudKit, Core Data, Core Spotlight, Swift Numerics
 
-## 🔖 My Repositories
+## My Repositories
 
 I keep repos falling into these categories:
 - Personal repos I am developing at home
