@@ -4,19 +4,23 @@ Welcome to my personal GitHub profile!
 
 ## About Me
 
-Developing Java applications for a core trading platform at ICE Bonds
+Backend engineer on a fixed income trading platform at ICE Bonds.
 
-Was a scientist with background in quantum computing, nuclear magnetic resonance (NMR) spectroscopy, and magnetic resonance imaging (MRI)
+Physics PhD with research in quantum computing, NMR spectroscopy, and MRI.
 
-Am building iOS apps in my free time
+Building iOS apps on the side.
 
 ## Tech Stack
 
 **Languages:** Java, Swift, Python, MATLAB, C++, C
 
-**Java:** JBoss AS 5, Spring, EJB, JMS, Artemis, JPA, Hibernate, OpenTelemetry
+**Java:** JBoss AS 5, Spring, EJB, JMS, Apache Artemis, JPA, Hibernate, OpenTelemetry, Apache Fury
 
 **Swift:** SwiftUI, CloudKit, Core Data, Core Spotlight, Swift Numerics
+
+**Python:** Pydantic, smolagents, ChromaDB, Ragas, Pandas, Keras, PyTorch
+
+**Tools:** Git, IntelliJ, Xcode, VS Code
 
 ## My Repositories
 
