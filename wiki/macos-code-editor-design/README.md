@@ -8,7 +8,8 @@ document-based app decision.
 Requirements: local Git repo support (no remotes); nine languages (Swift,
 Python, C++, Java, JavaScript, Markdown, HTML, LaTeX, XML); repo-wide search;
 navigation (go to definition, find usages); refactoring (rename, change
-signature). Targets macOS 26+ (Tahoe), Swift 6.3+.
+signature); visual `git diff` between any two commits for reviewing changes.
+Targets macOS 26+ (Tahoe), Swift 6.3+.
 
 ---
 
@@ -69,13 +70,13 @@ workspace layer.
 | 0 | Foundation: workspace/document model, chrome, file tree, FSEvents | 3 |
 | 1 | Editor core: TextKit 2 view, tree-sitter pipeline, folding, perf | 8–10 |
 | 2 | Search: ripgrep integration, multi-file replace with preview | 3 |
-| 3 | Git: status, staging, commits, branches, history, diffs | 4–5 |
+| 3 | Git: status, staging, commits, branches, history; visual side-by-side diff of any two commits (syntax-highlighted, intraline marks) | 6–7 |
 | 4 | LSP infrastructure: transport, server lifecycle, diagnostics, completion | 6–8 |
 | 5 | Navigation: go to definition, find usages, symbol search | 2–3 |
 | 6 | Refactoring: LSP rename with atomic cross-file undo; change signature where supported | 3–4 |
 | 7 | Hardening: settings, notarization, Sparkle, QA across nine languages | 5–6 |
 
-Total ~34–42 ew; **~41–50 ew with a 20% buffer** ≈ 10–12 months for one dev,
+Total ~36–44 ew; **~43–53 ew with a 20% buffer** ≈ 11–13 months for one dev,
 5–7 months for two. Dogfood milestone: Phases 0–2 plus minimal Phase 4
 (~4–5 months solo) yields a daily-driver editor with highlighting, search,
 and diagnostics.
